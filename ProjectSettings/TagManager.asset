@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Satellite
+  - Asteroid
+  - Bullet
+  - Factory
+  - Planet
+  - Boundary
+  - EnemyBullet
+  - Star
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Sprites
+  - Particles
+  - BlackHoleExclusion
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Particles
+    uniqueID: 2496263359
+    locked: 0
+  - name: Sprites
+    uniqueID: 2785152627
+    locked: 0
+  - name: UI Elements
+    uniqueID: 3111947279
+    locked: 0
